@@ -1,0 +1,23 @@
+body{
+    background-color : rgb(20, 20, 20);
+    font-family: Arial;
+    font-size: 1em;
+    color: aliceblue;
+    font-weight: bold;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+.moveBtn{
+    height: 120px;
+    width: 120px;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 10px 10px;
+    border-radius: 60px;
+    margin: 10px 20px;
+}
+.move-img{
+    height: 60px;
+}
